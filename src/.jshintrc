@@ -1,0 +1,19 @@
+{
+  "esversion": 6,
+  "globals": {
+        "console": false,
+        "setTimeout": false,
+        "event": false,
+        "document": false,
+        "window": false,
+        "contect": false,
+        "async": false,
+        "require": false,
+        "navigator": false,
+        "position": false,
+        "fetch": false,
+        "M": false,
+        "Image": false
+    },
+  "strict" : "global"
+}

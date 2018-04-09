@@ -1,0 +1,3 @@
+//GET https://en.wikipedia.org/w/api.php?action=query&format=json&list=search&utf8=1&srsearch=Albert%20Einstein
+
+GET https://en.wikipedia.org/w/api.php?action=query&format=json&prop=extracts&list=&meta=&generator=search&utf8=1&exsentences=1&exsectionformat=plain&gsrsearch=Poznan&gsrnamespace=0
